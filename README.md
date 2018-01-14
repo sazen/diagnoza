@@ -1,0 +1,2 @@
+# diagnoza
+meritve
